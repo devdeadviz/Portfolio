@@ -89,6 +89,7 @@ hr {
 
 .hero {
     padding: 2rem;
+    margin-top: 3rem;
 }
 
 .hero .hero-img {
@@ -129,6 +130,7 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    margin-top: 12rem;
 }
 
 .footer .footer-header {
@@ -142,4 +144,10 @@ hr {
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+.blog-img {
+        max-width: 350px;
+        display: block;
+        margin: auto;
 }
